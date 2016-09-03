@@ -1,0 +1,20 @@
+{
+  "name": "generator-webpack-es6-sass",
+  "version": "0.1.0",
+  "description": "A very basic generator for scaffoliding ES6 apps with sass support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "es6",
+    "webpack",
+    "javascript"
+  ],
+  "author": "Sebastian Weggesser",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
