@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "generators/app"
+  ],
   "keywords": [
     "yeoman-generator",
     "es6",
