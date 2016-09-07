@@ -1,6 +1,6 @@
 {
   "name": "generator-webpack-es6-sass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A very basic generator for scaffoliding ES6 apps with sass support",
   "main": "index.js",
   "scripts": {
