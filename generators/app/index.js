@@ -56,6 +56,7 @@ module.exports = generator.Base.extend({
                      'doiuse',
                      'babel-core',
                      'babel-loader',
+                     'babel-preset-es2015-webpack',
                      'css-loader'], { 'saveDev': true });
   }
 });
